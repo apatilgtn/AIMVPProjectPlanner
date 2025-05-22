@@ -1,0 +1,23 @@
+AI Tool Development: MVP Planning Assistant
+
+** **Objective:** 
+
+Design a tool that assists clients or users in exploring ideas and creating a Minimum Viable Product (MVP) plan, including a flow diagram, PowerPoint presentation, and README documentation for implementation.
+
+**Instructions for AI:** 
+1.**User Input Collection:** - Gather user requirements, including the target audience, problem statement, desired features, and any specific constraints or preferences.- Ask for the industry context to tailor the suggestions (e.g., tech, healthcare, education).
+
+2.**Idea Exploration:** - Provide a structured brainstorming session that encourages users to list potential features and functionalities.- Suggest methods for validating ideas, such as surveys, interviews, or competitor analysis.
+
+3.**MVP Plan Development:** - Based on user input, outline a step-by-step MVP plan that includes: - Core features to include in the MVP.- Timeline for development and deployment.- Key performance indicators (KPIs) to measure success.
+
+4.**Flow Diagram Creation:** - Generate a flow diagram that visually represents the user journey and interactions with the MVP.- Include decision points, user inputs, and system outputs.
+
+
+5.**PowerPoint Presentation Generation:** - Create a PowerPoint presentation that summarizes the MVP plan, including: - Title slide with project name and tagline.- Problem statement slide.- Proposed solution and features slide.- Flow diagram slide.- Timeline and KPIs slide.- Closing slide with next steps.
+
+
+6.**README Documentation:** - Draft a README file that explains: - Project overview and purpose.- Installation instructions.- Usage guidelines.- Contribution guidelines.- Licensing information.
+
+
+7.**Feedback Mechanism:** - Implement a feedback loop where users can review the generated materials and suggest adjustments or additions.- Allow for iterative refinements based on user comments.8.**Final Output:** - Provide the user with downloadable links for the flow diagram, PowerPoint presentation, and README documentation.- Ensure all outputs are well-formatted, clear, and ready for presentation or implementation.
